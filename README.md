@@ -6,6 +6,7 @@ This repository is a curated collection of Jenkins pipeline scripts designed to 
 
 ## 📁 Repository Structure
 
+- [README.md](./README.md)
 - [script-1-basic-hello-world.txt](./script-1-basic-hello-world.txt)
 - [script-2-multiple-stages.txt](./script-2-multiple-stages.txt)
 - [script-3-on-a-label.txt](./script-3-on-a-label.txt)
@@ -52,3 +53,8 @@ To utilize these pipeline scripts:
 
 - Save the job configuration.
 - Click `Build Now` to execute the pipeline.
+
+## 📝 Notes
+- These scripts are written in Jenkins Declarative Pipeline syntax.
+- Modify the scripts as needed to fit your specific environment and requirements.
+- Ensure that any referenced agents, labels, or external jobs exist in your Jenkins setup.
