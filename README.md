@@ -55,6 +55,6 @@ To utilize these pipeline scripts:
 - Click `Build Now` to execute the pipeline.
 
 ## 📝 Notes
-- These scripts are written in Jenkins Declarative Pipeline syntax.
+- These scripts are written in [Jenkins Declarative Pipeline](https://www.jenkins.io/doc/book/pipeline/syntax/) syntax.
 - Modify the scripts as needed to fit your specific environment and requirements.
 - Ensure that any referenced agents, labels, or external jobs exist in your Jenkins setup.
